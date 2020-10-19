@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dyanamicform/static/css/main.6ac4d802.chunk.css",
+    "main.js": "/dyanamicform/static/js/main.420c2f1d.chunk.js",
+    "main.js.map": "/dyanamicform/static/js/main.420c2f1d.chunk.js.map",
+    "runtime-main.js": "/dyanamicform/static/js/runtime-main.f4ae7497.js",
+    "runtime-main.js.map": "/dyanamicform/static/js/runtime-main.f4ae7497.js.map",
+    "static/js/2.1c10bcd8.chunk.js": "/dyanamicform/static/js/2.1c10bcd8.chunk.js",
+    "static/js/2.1c10bcd8.chunk.js.map": "/dyanamicform/static/js/2.1c10bcd8.chunk.js.map",
+    "index.html": "/dyanamicform/index.html",
+    "precache-manifest.abe7f2379f90d3b0c43c6b757105dd76.js": "/dyanamicform/precache-manifest.abe7f2379f90d3b0c43c6b757105dd76.js",
+    "service-worker.js": "/dyanamicform/service-worker.js",
+    "static/css/main.6ac4d802.chunk.css.map": "/dyanamicform/static/css/main.6ac4d802.chunk.css.map",
+    "static/js/2.1c10bcd8.chunk.js.LICENSE.txt": "/dyanamicform/static/js/2.1c10bcd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ae7497.js",
+    "static/js/2.1c10bcd8.chunk.js",
+    "static/css/main.6ac4d802.chunk.css",
+    "static/js/main.420c2f1d.chunk.js"
+  ]
+}
